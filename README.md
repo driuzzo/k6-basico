@@ -54,6 +54,13 @@ yarn install
 yarn dev
 ```
 
+Para rodar o K6, execute:
+
+```sh
+cd tests
+k6 run "nome-do-arquivo.js"
+```
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
